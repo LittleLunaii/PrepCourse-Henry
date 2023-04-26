@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-This is a Module 2 repository from Henry's course
+This is a proyect on how to create a repository and clone it from GitHub to my PC.
